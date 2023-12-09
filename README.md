@@ -1,4 +1,10 @@
 # SHIFT UP
+<p>
+  
+Explore luxury car shopping with us! Our website offers top-brand cars for purchase, featuring secure authentication for private access. As a registered user, update car details, add or remove products effortlessly, and enjoy a personalized cart view. Embrace convenience and redefine your car shopping experience with us. 
+</p>
+
+## Fetaures 
 * this is a car shop where one can buys top brand cars
 * this website has authentication features which enables some routes private
 * Only user can access those routes
