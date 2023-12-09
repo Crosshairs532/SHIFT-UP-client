@@ -1,6 +1,6 @@
 # SHIFT UP
+
 <p>
-  
 Explore luxury car shopping with us! Our website offers top-brand cars for purchase, featuring secure authentication for private access. As a registered user, update car details, add or remove products effortlessly, and enjoy a personalized cart view. Embrace convenience and redefine your car shopping experience with us. 
 </p>
 
