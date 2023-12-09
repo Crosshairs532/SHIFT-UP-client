@@ -1,0 +1,10 @@
+.gradient {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.812) 0%, rgba(112, 112, 112, 0.291) 100%);
+}
+
+.gradient img {
+    position: relative;
+    z-index: -1;
+
+
+}

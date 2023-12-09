@@ -1,0 +1,32 @@
+[
+    {
+        "brand_name": "Aston-Martin",
+        "brand_image1": "https://i.ibb.co/DkGBtDy/felipe-simo-ktlt-WUbd1lk-unsplash.jpg",
+        "brand_image2": "https://i.ibb.co/Pmmkr8b/james-sullivan-x8l63-IUeuw-Q-unsplash.jpg",
+        "brand_image3": "https://i.ibb.co/sW4RTgm/jakob-rosen-FY-w-CRSV6-4-unsplash.jpg"
+    },
+    {
+        "brand_name": "Ferrari",
+        "brand_image1": "https://i.ibb.co/Y809Xh6/ferrari1.jpg",
+        "brand_image2": "https://i.ibb.co/r7KvPXG/ferrari2.jpg",
+        "brand_image3": "https://i.ibb.co/PxRwR84/ferrair3.jpg"
+    },
+    {
+        "brand_name": "Jaguar",
+        "brand_image1": "https://i.ibb.co/x3qMq45/jaguar1.jpg",
+        "brand_image2": "https://i.ibb.co/yNBNTGD/jaguar2.jpg",
+        "brand_image3": "https://i.ibb.co/LxDgwnP/jaguar3.jpg"
+    },
+    {
+        "brand_name": "Lamborghini",
+        "brand_image1": "https://i.ibb.co/cLByJ8q/lambo1.jpg",
+        "brand_image2": "https://i.ibb.co/VWfH4vn/lambo2.jpg",
+        "brand_image3": "https://i.ibb.co/j6bp41B/lambo3.jpg"
+    },
+    {
+        "brand_name": "Porsche",
+        "brand_image1": "https://i.ibb.co/kh9FJz0/courjault-maxime-ccavf5-An-R2k-unsplash.jpg",
+        "brand_image2": "https://i.ibb.co/gVc178C/laurent-perren-Ne-H9w4-Cdmn-A-unsplash.jpg",
+        "brand_image3": "https://i.ibb.co/qp2CXBB/redcharlie-redcharlie1-v-QVWIs-IBaf-A-unsplash.jpg"
+    }
+]

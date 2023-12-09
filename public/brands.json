@@ -1,0 +1,26 @@
+[
+    {
+        "brand_name": "Aston-Martin",
+        "brand_image": "https://i.ibb.co/ynW2j3f/aston.jpg"
+    },
+    {
+        "brand_name": "BMW",
+        "brand_image": "https://i.ibb.co/TbjXs3g/bmw.jpg"
+    },
+    {
+        "brand_name": "Ferrari",
+        "brand_image": "https://i.ibb.co/BBvs4H6/ferrari.jpg"
+    },
+    {
+        "brand_name": "Jaguar",
+        "brand_image": "https://i.ibb.co/74dRKnM/jaguar.jpg"
+    },
+    {
+        "brand_name": "Lamborghini",
+        "brand_image": "https://i.ibb.co/tM9knF2/lamborghini.jpg"
+    },
+    {
+        "brand_name": "Porsche",
+        "brand_image": "https://i.ibb.co/NYwCPvj/porche.jpg"
+    }
+]

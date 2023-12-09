@@ -1,0 +1,8 @@
+.banner {
+    background-image: url('../assets/gabriel-gurrola-u6BPMXgURuI-unsplash.jpg'), linear-gradient(to right, rgba(0, 0, 0, 0.627), rgba(56, 54, 54, 0.489));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-attachment: scroll;
+}

@@ -1,0 +1,16 @@
+.contact {
+    background-image: url('../.././assets/card.jpeg'), linear-gradient(to left, rgb(0, 0, 0), rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.86));
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-size: cover;
+
+
+
+
+}
+
+.bgblur {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+
+}
